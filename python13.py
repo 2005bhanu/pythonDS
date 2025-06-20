@@ -1,6 +1,6 @@
 #Question 1
 
-um=int(input("Enter a number: "))
+num=int(input("Enter a number: "))
 if num==1:
     print("January")
 elif num==2:
@@ -32,7 +32,6 @@ else:
 
 #Question 2
 
-
 a=int(input("Enter a number: "))
 b=int(input("Enter a number: "))
 fname=input("Enter your first name: ")
@@ -54,6 +53,7 @@ else:
 
 
 print("------------------------")
+
 #Question 3
 
 str1=input("Enter first string: ")
@@ -82,6 +82,7 @@ else:
 
 
 print("--------------------")
+
       #Question 5
       
 num=int(input("Enter a number: "))
