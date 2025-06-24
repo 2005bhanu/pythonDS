@@ -23,7 +23,7 @@ for num in range (1,101):
             else:
                 print(num)
 
-   print("-------------------")
+print("----------------------")
 
 #Question 3
 
@@ -41,7 +41,7 @@ elif num<=60:
 else:
     print("Invalid score")
 
-print("-------------------------")
+print("------------------------")
 
 
 # Question 4
@@ -51,7 +51,7 @@ for i in range(1,11):
     print(num,'x',i,'=',num*i)
 
 
-print("-----------------------------")
+print("------------------------")
 
 
 # Question 5
@@ -154,10 +154,8 @@ elif bmi>=25 and bmi<29.9:
 elif bmi>=30:
     print("Obesity")
 
+print("------------------------")
 
-print()
-print("______________________________")
-print()
 
 # Question 11
 
@@ -179,10 +177,7 @@ elif num==7:
 else:
     print("Invalid day")
 
-
-print()
-print("______________________________")
-print()
+print("-------------------------------")
 
 # Question 12
 
@@ -201,10 +196,7 @@ else:
     print("Price: ",price)
     print("No discount")
 
-
-print()
-print("______________________________")
-print()
+print("------------------")
 
 # Question 13
 
@@ -216,7 +208,7 @@ print("Sum of first ",num," natural numbers is: ",sum)
 
 
 print()
-print("______________________________")
+print("--------------------------------")
 print()
 
 # Question 14
@@ -233,9 +225,8 @@ for i in employee_details:
 print("Employees with salary greater than 50000: ",list1)
 
 
-print()
-print("______________________________")
-print()
+print("-------------------------")
+
 
 # Question 15
 
@@ -247,9 +238,7 @@ for ch in str1:
 print("Number of vowels in the given string= ",count)
 
 
-print()
-print("______________________________")
-print()
+print("----------------------")
 
 # Question 16
 
@@ -274,10 +263,8 @@ for i in range(n+1):
         print("*",end="")
     print()
 
+print("----------------------------")
 
-print()
-print("______________________________")
-print()
 
 # Question 18
 
@@ -296,10 +283,8 @@ while(guess!=ans):
 
 print("CORRECT GUESS! YOU WON")
 
-
 print()
-print("______________________________")
-print()
+print("----------------------------------")
 
 # Question 19
 
@@ -309,10 +294,7 @@ for i in range(1,num+1):
     if i%2==0:
         print(i,end=" ")
 
-
-print()
-print("______________________________")
-print()
+print("----------------------------------")
 
 # Question 20
 
@@ -347,9 +329,8 @@ for i in list1:
         print(i,end=" ")
 
 
-print()
-print("______________________________")
-print()
+print("----------------------------")
+
 
 # Question 21
 
@@ -377,10 +358,8 @@ else:
         print("String is too short")
 
 
+print("----------------------------")
 
-print()
-print("______________________________")
-print()
 
 # Question 22
 
